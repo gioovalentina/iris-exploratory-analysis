@@ -66,3 +66,32 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/gioovalentina/iris-exploratory-analysis.git
+```
+
+Entre na pasta:
+```bash
+cd iris-exploratory-analysis
+```
+
+Crie o ambiente virtual:
+```bash
+python -m venv .venv
+```
+
+Ative no Windows:
+```bash
+.venv\Scripts\activate
+```
+
+Instale as dependências:
+```bash
+pip install -r requirements.txt
+```
+
+Execute:
+```bash
+streamlit run app.py
+```
+
+## Autor
+Giovanna Valentina Esteves
