@@ -94,4 +94,4 @@ streamlit run app.py
 ```
 
 ## Autor
-Giovanna Valentina Esteves
+Giovanna Valentina de Andrade
